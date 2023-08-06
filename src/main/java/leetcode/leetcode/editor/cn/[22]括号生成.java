@@ -29,6 +29,7 @@ package leetcode.leetcode.editor.cn;//数字 n 代表生成括号的对数，请
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Stack;
 
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution_22_tengxun {
